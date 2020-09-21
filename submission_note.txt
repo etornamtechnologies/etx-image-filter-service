@@ -1,0 +1,2 @@
+Below is a endpoint URL for the running elastic beanstalk deployment
+http://etx-image-filter-dev-dev.us-east-2.elasticbeanstalk.com
